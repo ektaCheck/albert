@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(220, 220, 230);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+header{
+    text-align: center;
+
+    font-size: 36px;
+    color: #337ab7;
+}
+header p{
+    color: #008000;
+    font-size: 24px;
+}
+figure img{
+    width: 200px;
+}
+figure{
+    width: 211px;
+    margin: auto;
+}
+figcaption{
+    font-size: 14px;
+    font-weight: 700;
+}
+main p{
+    text-align: center;
+font-size: 14px;
+font-weight: 700;
+}
+ul{
+    font-size: 14px;
+    line-height: 23px;
+}
+aside{
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 35px;
+}
+aside span{
+    font-size: 14px;
+    color: #333333;
+}
+footer{
+    color: #9400d3;
+    font-size: 18px;
+    margin-left: 11px;
+}
+footer a{
+    font-style: italic;
+    color: #23527c;
+}
